@@ -1,0 +1,13 @@
+# .gitignore
+
+# Temporary files
+.#~
+*.*~
+~.#~
+/.#~
+.vscode*
+
+
+# databases
+db.*
+*.sqlite3
