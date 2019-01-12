@@ -11,3 +11,5 @@
 # databases
 db.*
 *.sqlite3
+
+smth
