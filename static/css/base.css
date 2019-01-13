@@ -5,14 +5,18 @@ body {
 }
 
 header {
-    border-bottom: px solid #999;
-    margin-bottom: rem;
+    border-bottom: 1px solid #999;
+    margin-bottom: 2rem;
     display: flex;
 }
 
 header h1 a {
     color: red;
     text-decoration: none;
+}
+
+.nav-left {
+    margin-right: auto;
 }
 
 .nav-right {
@@ -41,5 +45,5 @@ header h1 a {
 
 .post-entry h2 a:hover {
     color: red;
-    
+
 }
